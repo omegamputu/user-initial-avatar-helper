@@ -1,1 +1,1 @@
-# User-Initial-Avatar-Helper
+# User Initial Avatar Helper
